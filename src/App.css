@@ -1,0 +1,44 @@
+.App {
+  background-color: #f4f0e1;
+}
+
+.app__header {
+  text-align: center;
+  color: #f74700;
+  padding: 20px;
+}
+
+.user {
+  background-color: white;
+  width: 300px;
+  border: 1px solid #f74700;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.users {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.users > .user {
+  display: none;
+}
+
+.user__details > h1 {
+  font-size: 25px;
+}
+
+.profiles {
+  display: grid;
+  grid-gap: 30px;
+  grid-template: 150px/ 362px 362px 362px;
+}
+
+.profiles > .user > div > a > img {
+  width: 40px;
+  margin-left: 40px;
+}
