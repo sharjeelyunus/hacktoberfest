@@ -12,6 +12,10 @@ function App() {
         <Users />
         <FetchUser />
       </div>
+      <footer className="footer">
+        Made with ❤ by&nbsp;
+        <a href="https://github.com/sharjeelyunus">Sharjeel Yunus</a>
+      </footer>
     </div>
   );
 }

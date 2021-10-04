@@ -42,3 +42,19 @@
   width: 40px;
   margin-left: 40px;
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f74700;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+.footer > a {
+  color: white;
+  text-decoration: none;
+}
