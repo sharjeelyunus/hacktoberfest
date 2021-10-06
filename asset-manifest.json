@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sharjeelyunus/hacktoberfest/static/css/main.e74dcc68.chunk.css",
-    "main.js": "/sharjeelyunus/hacktoberfest/static/js/main.d53a57f5.chunk.js",
-    "main.js.map": "/sharjeelyunus/hacktoberfest/static/js/main.d53a57f5.chunk.js.map",
-    "runtime-main.js": "/sharjeelyunus/hacktoberfest/static/js/runtime-main.a6def09c.js",
-    "runtime-main.js.map": "/sharjeelyunus/hacktoberfest/static/js/runtime-main.a6def09c.js.map",
-    "static/js/2.1cc84cd1.chunk.js": "/sharjeelyunus/hacktoberfest/static/js/2.1cc84cd1.chunk.js",
-    "static/js/2.1cc84cd1.chunk.js.map": "/sharjeelyunus/hacktoberfest/static/js/2.1cc84cd1.chunk.js.map",
-    "index.html": "/sharjeelyunus/hacktoberfest/index.html",
-    "static/css/main.e74dcc68.chunk.css.map": "/sharjeelyunus/hacktoberfest/static/css/main.e74dcc68.chunk.css.map",
-    "static/js/2.1cc84cd1.chunk.js.LICENSE.txt": "/sharjeelyunus/hacktoberfest/static/js/2.1cc84cd1.chunk.js.LICENSE.txt"
+    "main.css": "/hacktoberfest/static/css/main.e74dcc68.chunk.css",
+    "main.js": "/hacktoberfest/static/js/main.d53a57f5.chunk.js",
+    "main.js.map": "/hacktoberfest/static/js/main.d53a57f5.chunk.js.map",
+    "runtime-main.js": "/hacktoberfest/static/js/runtime-main.12e5fc2c.js",
+    "runtime-main.js.map": "/hacktoberfest/static/js/runtime-main.12e5fc2c.js.map",
+    "static/js/2.1cc84cd1.chunk.js": "/hacktoberfest/static/js/2.1cc84cd1.chunk.js",
+    "static/js/2.1cc84cd1.chunk.js.map": "/hacktoberfest/static/js/2.1cc84cd1.chunk.js.map",
+    "index.html": "/hacktoberfest/index.html",
+    "static/css/main.e74dcc68.chunk.css.map": "/hacktoberfest/static/css/main.e74dcc68.chunk.css.map",
+    "static/js/2.1cc84cd1.chunk.js.LICENSE.txt": "/hacktoberfest/static/js/2.1cc84cd1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6def09c.js",
+    "static/js/runtime-main.12e5fc2c.js",
     "static/js/2.1cc84cd1.chunk.js",
     "static/css/main.e74dcc68.chunk.css",
     "static/js/main.d53a57f5.chunk.js"
