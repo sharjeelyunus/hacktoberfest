@@ -58,3 +58,14 @@
   color: white;
   text-decoration: none;
 }
+
+@media only screen and (max-width: 600px) {
+  .profiles {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .user {
+    padding: 20px;
+  }
+}
