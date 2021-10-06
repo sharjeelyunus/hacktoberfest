@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hacktoberfest/static/css/main.149b7693.chunk.css",
-    "main.js": "/hacktoberfest/static/js/main.86b77ed2.chunk.js",
-    "main.js.map": "/hacktoberfest/static/js/main.86b77ed2.chunk.js.map",
+    "main.js": "/hacktoberfest/static/js/main.74c90673.chunk.js",
+    "main.js.map": "/hacktoberfest/static/js/main.74c90673.chunk.js.map",
     "runtime-main.js": "/hacktoberfest/static/js/runtime-main.12e5fc2c.js",
     "runtime-main.js.map": "/hacktoberfest/static/js/runtime-main.12e5fc2c.js.map",
     "static/js/2.1cc84cd1.chunk.js": "/hacktoberfest/static/js/2.1cc84cd1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.12e5fc2c.js",
     "static/js/2.1cc84cd1.chunk.js",
     "static/css/main.149b7693.chunk.css",
-    "static/js/main.86b77ed2.chunk.js"
+    "static/js/main.74c90673.chunk.js"
   ]
 }
