@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+![hacktoberfest](./src/assets/Hacktoberfest.png)
+<div align="center">
+	<p>
+        <b><i>Let's Contribute To Open-source</i></b>
+    </p>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
 
-## Available Scripts
+### *Completing the Challenge*
 
-In the project directory, you can run:
+If you have previously never contributed to any open-source software then these steps will help you get started:
 
-### `yarn start`
+1. Go to Hacktoberfest [official website](https://hacktoberfest.digitalocean.com/) and sign in there using your GitHub.
+2. Install git and setup in your computer. Download and install it from [here](https://git-scm.com/downloads).
+3. Fork this repository by click the Fork button in the top right of this page or simply [click here](https://github.com/sharjeelyunus/hacktoberfest/fork).
+4. Once it is forked, clone the repository in your computer. For this, copy the URL in the address bar, and use the following command:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```sh
+git clone url_you_just_copied
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+4. Open this cloned repository in your preferred code editor. Also, open a terminal in this directory.
+5. Now type in the following command in the terminal and replace `username` with your GitHub username.
 
-### `yarn test`
+```sh
+git checkout -b username
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. Fill this block with necessary info of yourself.
+```
+    {
+      "name": {YOUR_NAME},
+      "batch": {YOUR_BATCH_COMMENCEMENT_YEAR},
+      "major": {YOUR_DEPARTMENT},
+      "githubUsername": {YOUR_GITHUB_USERNAME},
+      "favoriteLanguage": {YOUR_FAVOURITE_PROGRAMMING_LANGUAGE}
+    }
+```
 
-### `yarn build`
+7. Now add the above filled block to the array in `profiles.json` file
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+8. Once you have done all this, commit your changes to GitHub. You can do this with the following commands. Make sure you execute them in the precise order one after another in your terminal.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+# copy and paste the following in the terminal
+git add .
 
-### `yarn eject`
+# copy and paste the following in the terminal after you have executed the previous command
+git commit -m "hacktoberfest contribution"
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# copy and paste the following in the terminal after you have executed the previous command
+git push -u origin your_github_username
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+9. Now open the forked repository on your GitHub. You will see a yellow box at the top telling you that some changes are pushed. You will also see a button called `Compare & pull request`. Click on it.
+10. Now add a title, some description! You have opened a pull request in this repository.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+*You need to open **four** valid pull requests in order to complete the challenge. If you have performed the above steps, you have already opened one pull request. And you need only three more.*
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<br>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+>Note: Those repositories who have `hacktoberfest` as a label are considered for Hacktoberfest challenge only.
