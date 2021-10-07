@@ -28,5 +28,13 @@
     "major": "Software engineering(MUET)",
     "githubUsername": "Hira-Amir",
     "favoriteLanguage": "C++"
+  },
+
+  {
+    "name": "Ashish Kumar",
+    "batch": 2023,
+    "major": "Computer Science Engineering",
+    "githubUsername": "ashish293",
+    "favoriteLanguage": "Java"
   }
 ]
