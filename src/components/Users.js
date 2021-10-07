@@ -12,7 +12,7 @@ const Users = ({ name, batch, major, github, favLang }) => {
                 <p>Favourite Language: {favLang}</p>
             </div>
             <div>
-                <a href={githubUsername}>
+                <a href={githubUsername} target="_blank" rel="noreferrer">
                     <img src={GitHubLogo} alt="" />
                 </a>
             </div>
