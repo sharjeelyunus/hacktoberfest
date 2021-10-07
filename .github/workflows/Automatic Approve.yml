@@ -1,7 +1,7 @@
 name: Automatic Approve
-on:
-  schedule:
-    - cron: '*/5 * * * *'
+
+on: [pull_request]
+
 jobs:
   automatic-approve:
     name: Automatic Approve
@@ -11,5 +11,5 @@ jobs:
         uses: mheap/automatic-approve-action@v1
         with:
           token: ${{ secrets.LABELER_TOKEN }}
-          workflows: 'pr.yml,lint.yml'
+          workflows: 'GitHub Actions.yml'
           dangerous_files: 'build.js'
