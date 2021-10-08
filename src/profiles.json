@@ -40,11 +40,11 @@
   
   
   {
-    "name": "Ambar arain",
-    "batch": 2020,
-    "major": "Software Engineering",
-    "githubUsername": "Ambar-Ghaffar",
-    "favoriteLanguage": "Java"
-  },
+      "name": {Ambar_Arain},
+      "batch": {2020},
+      "major": {Software_Engineering},
+      "githubUsername": {Ambar_Ghaffar},
+      "favoriteLanguage": {Java}
+    }
    
 ]
