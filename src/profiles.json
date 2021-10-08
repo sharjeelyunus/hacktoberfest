@@ -44,5 +44,13 @@
     "major": "Software engineering(MUET)",
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
+  },
+  
+  {
+    "name": "Sharjeel",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "imsharjeel",
+    "favoriteLanguage": "JavaScript"
   }
 ]
