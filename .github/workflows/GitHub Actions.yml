@@ -18,4 +18,4 @@ jobs:
         with:
           config_path: .github/labeler_config.yml
         env:
-          GITHUB_TOKEN: '${{ secrets.LABELER_TOKEN }}'
+          GITHUB_TOKEN: '${{ secrets.LABEL_TOKEN }}'
