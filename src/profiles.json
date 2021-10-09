@@ -38,19 +38,26 @@
     "favoriteLanguage": "Java"
   },
   
-   {
+  {
     "name": "Ambar Arain",
     "batch": 2020,
     "major": "Software engineering(MUET)",
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
   },
-
+  
+  {
+    "name": "Rashid Ghafoor",
+    "batch": 2020,
+    "major": "Computer Science",
+    "githubUsername": "RashidGhafoor",
+    "favoriteLanguage": "Python"
+  },
+  
   {
     "name": "Muhammad Faeez Shabbir",
     "batch": 2020,
     "major": "Software engineering(IUB)",
     "githubUsername": "IamFaizy4",
-    "favoriteLanguage": "Python"
   }
 ]
