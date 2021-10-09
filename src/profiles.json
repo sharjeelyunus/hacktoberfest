@@ -124,5 +124,13 @@
     "major": "Data Science",
     "githubUsername": "Hamna12",
     "favoriteLanguage": "Python"
+  },
+
+  {
+    "name": "Dolly Gupta",
+    "batch": 2022,
+    "major": "Information Technology",
+    "githubUsername": "dollygupta07",
+    "favoriteLanguage": "Python"
   }
 ]
