@@ -44,5 +44,13 @@
     "major": "Software engineering(MUET)",
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
-  }
+  },
+  
+  {
+   "name": "Aslam Sarfraz",
+   "batch": 2019,
+   "major": "Computer Science",
+   "githubUsername": "Aslambaba",
+   "favoriteLanguage": "Python/Rust"
+ }
 ]
