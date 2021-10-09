@@ -76,5 +76,13 @@
     "major": "Software engineering (MUET SZAB)",
     "githubUsername": "mubashir72",
     "favoriteLanguage": " Java"
+  },
+
+  {
+    "name": "Ahmad Bin Abdul Jabbar",
+    "batch": 2020,
+    "major": "Computer Science",
+    "githubUsername": "AhmadBinAbdulJabbar",
+    "favoriteLanguage": "C++"
   }
 ]
