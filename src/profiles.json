@@ -100,13 +100,21 @@
     "major": "Computer Science",
     "githubUsername": "Aslambaba",
     "favoriteLanguage": "Python/Rust"
-  }
-]
-{
+  },
+
+  {
     "name": "Husnain saeed",
     "batch": 2019,
     "major": "computer science(BSCS)",
     "githubUsername": "husnainsaeed00",
     "favoriteLanguage": "javascript,python"
+  },
+
+  {
+    "name": "Aun Muhammad",
+    "batch": 2020,
+    "major": "Software engineering",
+    "githubUsername": "AunMuhammad1",
+    "favoriteLanguage": "Python"
   }
 ]
