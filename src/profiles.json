@@ -84,5 +84,13 @@
     "major": "Computer Science",
     "githubUsername": "AhmadBinAbdulJabbar",
     "favoriteLanguage": "C++"
+  },
+
+  {
+    "name": "Dawood Nizami",
+    "batch": 2020,
+    "major": "Comtuper Science",
+    "githubUsername": "DawoodNizami",
+    "favoriteLanguage": "HTML"
   }
 ]
