@@ -92,5 +92,13 @@
     "major": "Comtuper Science",
     "githubUsername": "DawoodNizami",
     "favoriteLanguage": "HTML"
+  },
+
+  {
+    "name": "Aslam Sarfraz",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "Aslambaba",
+    "favoriteLanguage": "Python/Rust"
   }
 ]
