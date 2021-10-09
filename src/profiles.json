@@ -59,5 +59,12 @@
     "batch": 2020,
     "major": "Software engineering(IUB)",
     "githubUsername": "IamFaizy4",
+  },
+  
+  {
+    "name": "Dolly Gupta",
+    "batch": 2022,
+    "major": "Information Technology",
+    "githubUsername": "dollygupta07",
   }
 ]
