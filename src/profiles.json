@@ -44,5 +44,13 @@
     "major": "Software engineering(MUET)",
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
+  },
+
+  {
+    "name": "Ahmad Bin Abdul Jabbar",
+    "batch": 2020,
+    "major": "Computer Science",
+    "githubUsername": "AhmadBinAbdulJabbar",
+    "favoriteLanguage": "C++"
   }
 ]
