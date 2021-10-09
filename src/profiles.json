@@ -44,5 +44,13 @@
     "major": "Software engineering(MUET)",
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
+  },
+
+  {
+    "name": "Hamna Qaseem",
+    "batch": 2020,
+    "major": "Data Science",
+    "githubUsername": "Hamna12",
+    "favoriteLanguage": "Python"
   }
 ]
