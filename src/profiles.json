@@ -37,20 +37,68 @@
     "githubUsername": "ashish293",
     "favoriteLanguage": "Java"
   },
-  
-   {
+
+  {
     "name": "Ambar Arain",
     "batch": 2020,
     "major": "Software engineering(MUET)",
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
   },
-  
+
   {
-   "name": "Aslam Sarfraz",
-   "batch": 2019,
-   "major": "Computer Science",
-   "githubUsername": "Aslambaba",
-   "favoriteLanguage": "Python/Rust"
- }
+    "name": "Rashid Ghafoor",
+    "batch": 2020,
+    "major": "Computer Science",
+    "githubUsername": "RashidGhafoor",
+    "favoriteLanguage": "Python"
+  },
+
+  {
+    "name": "Muhammad Faeez Shabbir",
+    "batch": 2020,
+    "major": "Software engineering(IUB)",
+    "githubUsername": "IamFaizy4",
+    "favoriteLanguage": "Python"
+  },
+
+  {
+    "name": "Muhammad Safeer Hussain",
+    "batch": 2020,
+    "major": "Software engineering(IUB)",
+    "githubUsername": "SafeerHussain12",
+    "favoriteLanguage": "Python"
+  },
+
+  {
+    "name": "Muhammad Mubashir",
+    "batch": 2020,
+    "major": "Software engineering (MUET SZAB)",
+    "githubUsername": "mubashir72",
+    "favoriteLanguage": " Java"
+  },
+
+  {
+    "name": "Ahmad Bin Abdul Jabbar",
+    "batch": 2020,
+    "major": "Computer Science",
+    "githubUsername": "AhmadBinAbdulJabbar",
+    "favoriteLanguage": "C++"
+  },
+
+  {
+    "name": "Dawood Nizami",
+    "batch": 2020,
+    "major": "Comtuper Science",
+    "githubUsername": "DawoodNizami",
+    "favoriteLanguage": "HTML"
+  },
+
+  {
+    "name": "Aslam Sarfraz",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "Aslambaba",
+    "favoriteLanguage": "Python/Rust"
+  }
 ]
