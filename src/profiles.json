@@ -44,5 +44,14 @@
     "major": "Software engineering(MUET)",
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
+  },
+
+  {
+    "name": "Aun Muhammad",
+    "batch": 2020,
+    "major": "Software engineering",
+    "githubUsername": "AunMuhammad1",
+    "favoriteLanguage": "Python"
   }
+
 ]
