@@ -20,7 +20,13 @@ If you have previously never contributed to any open-source software then these 
 git clone url_you_just_copied
 ```
 
-4. Open this cloned repository in your preferred code editor. Also, open a terminal in this directory.
+4. Open this cloned repository in your preferred code editor as shown below. Also, open a terminal in this directory.
+(Use this command if you are using Linux distribution)
+
+```sh
+cd hacktoberfest
+```
+
 5. Now type in the following command in the terminal and replace `username` with your GitHub username.
 
 ```sh
