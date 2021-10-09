@@ -37,12 +37,20 @@
     "githubUsername": "ashish293",
     "favoriteLanguage": "Java"
   },
-  
-   {
+
+  {
     "name": "Ambar Arain",
     "batch": 2020,
     "major": "Software engineering(MUET)",
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
+  },
+
+  {
+      "name": "Dawood Nizami",
+      "batch": 2020,
+      "major": "Comtuper Science",
+      "githubUsername": "DawoodNizami",
+      "favoriteLanguage": "HTML"
   }
 ]
