@@ -37,7 +37,7 @@
     "githubUsername": "ashish293",
     "favoriteLanguage": "Java"
   },
-  
+
   {
     "name": "Ambar Arain",
     "batch": 2020,
@@ -45,7 +45,7 @@
     "githubUsername": "Ambar-Ghaffar",
     "favoriteLanguage": "C++"
   },
-  
+
   {
     "name": "Rashid Ghafoor",
     "batch": 2020,
@@ -53,11 +53,20 @@
     "githubUsername": "RashidGhafoor",
     "favoriteLanguage": "Python"
   },
-  
+
   {
     "name": "Muhammad Faeez Shabbir",
     "batch": 2020,
     "major": "Software engineering(IUB)",
     "githubUsername": "IamFaizy4",
+    "favoriteLanguage": "Python"
+  },
+
+  {
+    "name": "Muhammad Safeer Hussain",
+    "batch": 2020,
+    "major": "Software engineering(IUB)",
+    "githubUsername": "SafeerHussain12",
+    "favoriteLanguage": "Python"
   }
 ]
