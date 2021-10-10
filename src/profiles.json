@@ -164,5 +164,13 @@
     "major": "Computer Science",
     "githubUsername": "alikarani",
     "favoriteLanguage": "JS Python"
+  },
+
+  {
+    "name": "Tanveer khan",
+    "batch": 2017,
+    "major": "Computer Science",
+    "githubUsername": "Mtanveerkhan",
+    "favoriteLanguage": "JS Html Css React"
   }
 ]
