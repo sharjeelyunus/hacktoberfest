@@ -156,5 +156,13 @@
     "major": "Physchology",
     "githubUsername": "umersaed",
     "favoriteLanguage": "html"
+  },
+
+  {
+    "name": "Ali Karani",
+    "batch": 2017,
+    "major": "Computer Science",
+    "githubUsername": "alikarani",
+    "favoriteLanguage": "JS Python"
   }
 ]
