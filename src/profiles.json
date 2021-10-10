@@ -164,5 +164,12 @@
     "major": "Computer Science",
     "githubUsername": "alikarani",
     "favoriteLanguage": "JS Python"
+  },
+  {
+    "name": "Ahmad Amin",
+    "batch": 2018,
+    "major": "Computer Science",
+    "githubUsername": "iahmadamin",
+    "favoriteLanguage": "Dart"
   }
 ]
