@@ -164,5 +164,13 @@
     "major": "Computer Science",
     "githubUsername": "alikarani",
     "favoriteLanguage": "JS Python"
+  },
+  
+  {
+    "name": "Asanali Bulatov",
+    "batch": 2019,
+    "major": "DevOps/SRE",
+    "githubUsername": "krax1337",
+    "favoriteLanguage": "Python Golang C#"
   }
 ]
