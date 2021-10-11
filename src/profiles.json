@@ -164,5 +164,13 @@
     "major": "Computer Science",
     "githubUsername": "alikarani",
     "favoriteLanguage": "JS Python"
+  },
+  
+  {
+    "name": "Sharjeel",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "heresharjeel",
+    "favoriteLanguage": "JavaScript"
   }
 ]
