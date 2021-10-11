@@ -164,5 +164,13 @@
     "major": "Computer Science",
     "githubUsername": "alikarani",
     "favoriteLanguage": "JS Python"
+  },
+  
+  {
+    "name": "Bartosz Zagrodzki",
+    "batch": 2019,
+    "major": "Frontend Developer",
+    "githubUsername": "Bartek532",
+    "favoriteLanguage": "TypeScript"
   }
 ]
