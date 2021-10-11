@@ -164,5 +164,14 @@
     "major": "Computer Science",
     "githubUsername": "alikarani",
     "favoriteLanguage": "JS Python"
+  },
+  
+  {
+    "name": "Isha Bhutto",
+    "batch": 2020,
+    "major": "Software Engineering (Muet)",
+    "githubUsername": "ishabhutto",
+    "favoriteLanguage": "Java"
   }
+
 ]
