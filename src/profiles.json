@@ -172,5 +172,12 @@
     "major": "DevOps/SRE",
     "githubUsername": "krax1337",
     "favoriteLanguage": "Python Golang C#"
+  },
+    {
+    "name": "Abdul Qayyum",
+    "batch": 2020,
+    "major": "Software Engineering",
+    "githubUsername": "Qayyum-1",
+    "favoriteLanguage": "HTML/CSS/JavaScript"
   }
 ]
