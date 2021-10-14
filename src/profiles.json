@@ -197,7 +197,15 @@
     "githubUsername": "LOL-NOOB47",
     "favoriteLanguage": "Flutter"
   },
-
+  
+  {
+    "name": "Abdul Qayyum",
+    "batch": 2020,
+    "major": "Software Engineering",
+    "githubUsername": "Qayyum-1",
+    "favoriteLanguage": "HTML/CSS/JavaScript"
+  },
+  
   {
     "name": "Qasim hassan",
     "batch": 2018,
