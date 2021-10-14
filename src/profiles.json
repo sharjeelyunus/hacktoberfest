@@ -212,5 +212,13 @@
     "major": "Computer Engineering",
     "githubUsername": "qasim1020",
     "favoriteLanguage": "Python"
+  },
+  
+  {
+    "name": "Amber Shahzad",
+    "batch": 2020,
+    "major": "Software Engineering",
+    "githubUsername": "ambershahzad",
+    "favoriteLanguage": "HTML/CSS/JavaScript"
   }
 ]
