@@ -151,6 +151,9 @@
     "batch": 2018,
     "major": "Computer Science",
     "githubUsername": "Nabeel110",
-    "favoriteLanguage": "Javascript, Python"
+    "favoriteLanguage": [
+      "Javascript ",
+      "Python"
+    ]
   }
 ]
