@@ -151,7 +151,7 @@
     "batch": 2018,
     "major": "Computer Science",
     "githubUsername": "Nabeel110",
-    "favoriteLanguage":"Javascript, Py"
+    "favoriteLanguage": "Javascript, Py"
   },
   {
     "name": "Asanali Bulatov",
@@ -160,7 +160,7 @@
     "githubUsername": "krax1337",
     "favoriteLanguage": "Python Golang C#"
   },
-  
+
   {
     "name": "Ghazala Fatima",
     "batch": 2019,
@@ -168,7 +168,7 @@
     "githubUsername": "iriswest",
     "favoriteLanguage": "Java"
   },
-  
+
   {
     "name": "Nikita Chaudhary",
     "batch": 2019,
@@ -176,7 +176,7 @@
     "githubUsername": "nikitachoudhary241",
     "favoriteLanguage": "Java"
   },
-  
+
   {
     "name": "Arbaz khan",
     "batch": 2019,
@@ -184,7 +184,7 @@
     "githubUsername": "LOL-NOOB47",
     "favoriteLanguage": "Flutter"
   },
-  
+
   {
     "name": "Abdul Qayyum",
     "batch": 2020,
@@ -192,7 +192,7 @@
     "githubUsername": "Qayyum-1",
     "favoriteLanguage": "HTML/CSS/JavaScript"
   },
-  
+
   {
     "name": "Qasim hassan",
     "batch": 2018,
@@ -200,7 +200,7 @@
     "githubUsername": "qasim1020",
     "favoriteLanguage": "Python"
   },
-  
+
   {
     "name": "Amber Shahzad",
     "batch": 2020,
@@ -208,12 +208,19 @@
     "githubUsername": "ambershahzad",
     "favoriteLanguage": "HTML/CSS/JavaScript"
   },
-  
+
   {
     "name": "Talha Masood",
     "batch": "2022",
     "major": "Electrical Engineering",
     "githubUsername": "Talhamasood0000",
     "favoriteLanguage": "Python JS"
+  },
+  {
+    "name": "Vaishali Kasondhan",
+    "batch": "2022",
+    "major": "Computer Science",
+    "githubUsername": "vaishali8799",
+    "favoriteLanguage": "JavaScript, C++"
   }
 ]
