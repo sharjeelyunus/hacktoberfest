@@ -6,7 +6,6 @@
     "githubUsername": "sharjeelyunus",
     "favoriteLanguage": "JavaScript"
   },
-
   {
     "name": "Aadil Saeed",
     "batch": 2019,
@@ -21,7 +20,6 @@
     "githubUsername": "SamanMahmood",
     "favoriteLanguage": "java"
   },
-
   {
     "name": "Hira Amir",
     "batch": 2020,
@@ -29,7 +27,6 @@
     "githubUsername": "Hira-Amir",
     "favoriteLanguage": "C++"
   },
-
   {
     "name": "Ashish Kumar",
     "batch": 2023,
@@ -37,8 +34,7 @@
     "githubUsername": "ashish293",
     "favoriteLanguage": "Java"
   },
-  
-   {
+  {
     "name": "Ambar Arain",
     "batch": 2020,
     "major": "Software engineering(MUET)",
@@ -46,10 +42,192 @@
     "favoriteLanguage": "C++"
   },
   {
+
     "name": "Soban khan",
     "batch": 22019,
     "major": "Computer Science",
     "githubUsername": "sobankhan12",
     "favoriteLanguage": "Reactjs"
+    "name": "Rashid Ghafoor",
+    "batch": 2020,
+    "major": "Computer Science",
+    "githubUsername": "RashidGhafoor",
+    "favoriteLanguage": "Python"
+  },
+  {
+    "name": "Muhammad Faeez Shabbir",
+    "batch": 2020,
+    "major": "Software engineering(IUB)",
+    "githubUsername": "IamFaizy4",
+    "favoriteLanguage": "Python"
+  },
+  {
+    "name": "Muhammad Safeer Hussain",
+    "batch": 2020,
+    "major": "Software engineering(IUB)",
+    "githubUsername": "SafeerHussain12",
+    "favoriteLanguage": "Python"
+  },
+  {
+    "name": "Muhammad Mubashir",
+    "batch": 2020,
+    "major": "Software engineering (MUET SZAB)",
+    "githubUsername": "mubashir72",
+    "favoriteLanguage": " Java"
+  },
+  {
+    "name": "Ahmad Bin Abdul Jabbar",
+    "batch": 2020,
+    "major": "Computer Science",
+    "githubUsername": "AhmadBinAbdulJabbar",
+    "favoriteLanguage": "C++"
+  },
+  {
+    "name": "Dawood Nizami",
+    "batch": 2020,
+    "major": "Comtuper Science",
+    "githubUsername": "DawoodNizami",
+    "favoriteLanguage": "HTML"
+  },
+  {
+    "name": "Aslam Sarfraz",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "Aslambaba",
+    "favoriteLanguage": "Python/Rust"
+  },
+  {
+    "name": "Husnain saeed",
+    "batch": 2019,
+    "major": "computer science(BSCS)",
+    "githubUsername": "husnainsaeed00",
+    "favoriteLanguage": "javascript,python"
+  },
+  {
+    "name": "Aun Muhammad",
+    "batch": 2020,
+    "major": "Software engineering",
+    "githubUsername": "AunMuhammad1",
+    "favoriteLanguage": "Python"
+  },
+  {
+    "name": "Hamna Qaseem",
+    "batch": 2020,
+    "major": "Data Science",
+    "githubUsername": "Hamna12",
+    "favoriteLanguage": "Python"
+  },
+  {
+    "name": "Dolly Gupta",
+    "batch": 2022,
+    "major": "Information Technology",
+    "githubUsername": "dollygupta07",
+    "favoriteLanguage": "Python"
+  },
+  {
+    "name": "Aditya Sharma",
+    "batch": 2019,
+    "major": "Computer Science and Engineering",
+    "githubUsername": "extinctsion",
+    "favoriteLanguage": "Python"
+  },
+  {
+    "name": "Shaima Rehmani",
+    "batch": 2019,
+    "major": "Computer System Engineering",
+    "githubUsername": "shaeemaah",
+    "favoriteLanguage": "html"
+  },
+  {
+    "name": "Umer Saeed",
+    "batch": 2020,
+    "major": "Physchology",
+    "githubUsername": "umersaed",
+    "favoriteLanguage": "html"
+  },
+  {
+    "name": "Ali Karani",
+    "batch": 2017,
+    "major": "Computer Science",
+    "githubUsername": "alikarani",
+    "favoriteLanguage": "JS Python"
+  },
+  {
+    "name": "Nabeel Ahmed",
+    "batch": 2018,
+    "major": "Computer Science",
+    "githubUsername": "Nabeel110",
+    "favoriteLanguage": "Javascript, Py"
+  },
+  {
+    "name": "Asanali Bulatov",
+    "batch": 2019,
+    "major": "DevOps/SRE",
+    "githubUsername": "krax1337",
+    "favoriteLanguage": "Python Golang C#"
+  },
+
+  {
+    "name": "Ghazala Fatima",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "iriswest",
+    "favoriteLanguage": "Java"
+  },
+
+  {
+    "name": "Nikita Chaudhary",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "nikitachoudhary241",
+    "favoriteLanguage": "Java"
+  },
+
+  {
+    "name": "Arbaz khan",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "LOL-NOOB47",
+    "favoriteLanguage": "Flutter"
+  },
+
+  {
+    "name": "Abdul Qayyum",
+    "batch": 2020,
+    "major": "Software Engineering",
+    "githubUsername": "Qayyum-1",
+    "favoriteLanguage": "HTML/CSS/JavaScript"
+  },
+
+  {
+    "name": "Qasim hassan",
+    "batch": 2018,
+    "major": "Computer Engineering",
+    "githubUsername": "qasim1020",
+    "favoriteLanguage": "Python"
+  },
+
+  {
+    "name": "Amber Shahzad",
+    "batch": 2020,
+    "major": "Software Engineering",
+    "githubUsername": "ambershahzad",
+    "favoriteLanguage": "HTML/CSS/JavaScript"
+  },
+
+  {
+    "name": "Talha Masood",
+    "batch": "2022",
+    "major": "Electrical Engineering",
+    "githubUsername": "Talhamasood0000",
+    "favoriteLanguage": "Python JS"
+  },
+  {
+    "name": "Vaishali Kasondhan",
+    "batch": "2022",
+    "major": "Computer Science",
+    "githubUsername": "vaishali8799",
+    "favoriteLanguage": "JavaScript, C++"
+
   }
 ]

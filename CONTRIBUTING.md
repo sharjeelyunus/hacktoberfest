@@ -55,3 +55,7 @@ git push -u origin your_github_username
 <br>
 
 >Note: Those repositories who have `hacktoberfest` as a label are considered for Hacktoberfest challenge only.
+
+<br>
+
+<h1> Happy Hacking! </h1>
