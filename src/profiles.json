@@ -42,6 +42,12 @@
     "favoriteLanguage": "C++"
   },
   {
+
+    "name": "Soban khan",
+    "batch": 22019,
+    "major": "Computer Science",
+    "githubUsername": "sobankhan12",
+    "favoriteLanguage": "Reactjs"
     "name": "Rashid Ghafoor",
     "batch": 2020,
     "major": "Computer Science",
@@ -222,5 +228,6 @@
     "major": "Computer Science",
     "githubUsername": "vaishali8799",
     "favoriteLanguage": "JavaScript, C++"
+
   }
 ]
