@@ -9,6 +9,7 @@ class FetchUser extends Component {
                 {profiles.map((data) => {
                     return (
                         <Users
+                            key={data.githubUsername}
                             name={data.name}
                             batch={data.batch}
                             major={data.major}
