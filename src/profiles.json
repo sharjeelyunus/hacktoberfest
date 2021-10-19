@@ -229,6 +229,12 @@
     "major": "Computer Engineering",
     "githubUsername": "Scarface69420",
     "favoriteLanguage": "Python, JavaScript, C++"
+  },
+  {
+      "name": "Yusuf Alp",
+      "batch": "2016",
+      "major": "Mathematics",
+      "githubUsername": "yusufalp",
+      "favoriteLanguage": "javascript"
   }
-
 ]
