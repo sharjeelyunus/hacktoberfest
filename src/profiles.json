@@ -236,5 +236,12 @@
       "major": "Mathematics",
       "githubUsername": "yusufalp",
       "favoriteLanguage": "javascript"
-  }
+  },
+      {
+      "name": "Farwa Mahmood",
+      "batch": "2023",
+      "major": "Computer Science",
+      "githubUsername": "HafizaFarwa",
+      "favoriteLanguage": "C++"
+    }
 ]
