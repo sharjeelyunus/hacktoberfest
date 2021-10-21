@@ -62,3 +62,5 @@ git push -u origin your_github_username
 <br>
 
 >Note: Those repositories who have `hacktoberfest` as a label are considered for Hacktoberfest challenge only.
+
+<strong>Documentation credits - [Saad Irfan](https://github.com/msaaddev)</strong>
