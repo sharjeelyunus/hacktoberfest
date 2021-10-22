@@ -23,7 +23,7 @@ function App() {
             </a>
           </strong>
         </p>
-        <h2>Open-Sourse Contributors Directory</h2>
+        <h2>Open-Source Contributors Directory</h2>
       </div>
       <div className="users">
         <Users />
