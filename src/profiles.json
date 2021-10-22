@@ -147,6 +147,13 @@
     "favoriteLanguage": "JS Python"
   },
   {
+    "name": "Isha Bhutto",
+    "batch": 2020,
+    "major": "Software Engineering (Muet)",
+    "githubUsername": "ishabhutto",
+    "favoriteLanguage": "Java"
+  },
+  {
     "name": "Nabeel Ahmed",
     "batch": 2018,
     "major": "Computer Science",
@@ -250,5 +257,6 @@
     "major": "Information Technology",
     "githubUsername": "Kunal-Vijay",
     "favoriteLanguage": "C++, Python"
-  }
+  },
+
 ]
