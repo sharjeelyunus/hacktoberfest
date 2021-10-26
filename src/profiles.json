@@ -250,5 +250,12 @@
     "major": "Information Technology",
     "githubUsername": "Kunal-Vijay",
     "favoriteLanguage": "C++, Python"
+  },
+  {
+    "name": "Ali Imran",
+    "batch": "2022",
+    "major": "Electrical Engineering",
+    "githubUsername": "ALI11-2000",
+    "favoriteLanguage": "C,Python,Verilog"
   }
 ]
